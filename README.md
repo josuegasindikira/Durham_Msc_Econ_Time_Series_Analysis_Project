@@ -13,7 +13,7 @@ This project analyses and forecasts inflation in France and the United States us
 ## Repository Structure
 - `Code/` – R scripts
 - `Data/` – datasets used in the analysis
-- `Project/` – final project report
+- `Report/` – final project report
 
 ## Data
 Quarterly macroeconomic data are sourced from FRED and cover French inflation, U.S. inflation, and the French 10-year government bond yield.
